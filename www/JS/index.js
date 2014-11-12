@@ -23,7 +23,7 @@
 
         app.receivedEvent('deviceready');
 
-        app.updateMedia("http://live.ardanradio.com:8228/ardan");
+        app.updateMedia("http://fg.impek.tv:80");
 
     },
 
